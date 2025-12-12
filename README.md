@@ -1,6 +1,18 @@
-# 👋 Cresci e Perdi | Perfil Oficial no GitHub
+<p align="center">
+  <img src="https://crescieperdi.com/wp-content/uploads/2023/10/logo_header.png" alt="Cresci e Perdi" width="260" />
+</p>
 
-Bem-vindo ao perfil oficial da **Cresci e Perdi**, a **maior rede de moda circular infantil do mundo**.  
+<h1 align="center">Cresci e Perdi | Perfil Oficial no GitHub</h1>
+
+<p align="center">
+  <strong>A maior rede de moda circular infantil do Brasil</strong>
+</p>
+
+---
+
+## 👋 Bem-vindo
+
+Este é o perfil oficial da **Cresci e Perdi**, a **maior rede de moda circular infantil do Brasil**.  
 Este GitHub representa a **estrutura tecnológica da rede de franquias**, utilizado para organização, versionamento e evolução de soluções internas da marca.
 
 ---
