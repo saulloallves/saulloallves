@@ -8,8 +8,6 @@
   <strong>A maior rede de moda circular infantil do Brasil</strong>
 </p>
 
----
-
 ## 👋 Bem-vindo
 
 Este é o perfil oficial da **Cresci e Perdi**, a **maior rede de moda circular infantil do Brasil**.  
